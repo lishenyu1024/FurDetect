@@ -33,3 +33,7 @@ Install the dependencies using pip:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 
+Run your project:
+```bash
+python YOUR_name_project.py
+
