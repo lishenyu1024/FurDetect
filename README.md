@@ -9,6 +9,10 @@ This project implements a custom K-Nearest Neighbors (KNN) classifier to classif
 - Provides a step-by-step pipeline for data preprocessing, training, testing, and evaluation.
 
 ## Dataset
+The dataset used in this project can be downloaded from Kaggle:
+
+[CatsAndDogs Dataset](https://www.kaggle.com/datasets/scarb7/catsanddogs-dummy)
+
 The dataset contains the following features:
 - **Height (cm)**: The height of the animal.
 - **Weight (kg)**: The weight of the animal.
@@ -32,6 +36,7 @@ To run this project, you need Python and the following libraries:
 Install the dependencies using pip:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+
 
 Run your project:
 ```bash
